@@ -1,6 +1,6 @@
 ## **Company website page design**
 
-### **Project Description:**
+### *Project Description:*
 
 The task of this project is to design a company website page.
 
